@@ -1,0 +1,1 @@
+# Bincom Intermediate Test
